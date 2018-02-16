@@ -25,6 +25,8 @@ dependencies {
 
   compile 'io.vertx:vertx-web:3.5.0'
 
+    compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.+'
+
   compile 'io.vertx:vertx-web-templ-handlebars:3.5.0'
 
 
